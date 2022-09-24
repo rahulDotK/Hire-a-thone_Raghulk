@@ -1,0 +1,21 @@
+header{
+    background: transparent url('../../assets/images/LineBg.png') 0% 0% no-repeat padding-box;
+}
+
+img.hero-img{
+    float:right;
+    width: 70%;
+}
+
+h1{
+    font-size: 73px;
+}
+
+h1 .highlgt{
+    color: #FF6E00;
+}
+
+p.hero-para{
+    color: #525252;
+    font-size: 25px;
+}
