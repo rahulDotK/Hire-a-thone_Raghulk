@@ -39,5 +39,4 @@ document
 1. Run using "ng serve" command.
 
 # Any other points to mention
-As I had unbearble neck strain, I wasn't abled to complete the project
 
